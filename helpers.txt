@@ -1,0 +1,4 @@
+01. yeoman - helps to generate express projects
+
+How to create and start mongodb in custom directory
+command: "mongod --dbpath D:\example\path"

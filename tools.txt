@@ -1,0 +1,38 @@
+--IDES--
+1. Visual Studio
+2. Visual Studio Code
+3. JetBrains IntelliJ IDEA
+4. JetBRains WebStorm
+5. Notepad++
+
+--Version control--
+1. Sourcetree
+3. Git bash
+
+--Testing--
+1. Postman
+
+--Designs--
+1. Zeplin
+
+--Bundling--
+1. Docker
+
+--Music--
+1. Spotify
+
+--Communication--
+1. Microsoft Teams
+2. Slack
+
+--Browser Extensions--
+1. Siteimprove Accessability Checker
+2. Redux DevTools
+3. React DevTools
+4. JSON Formatter
+5. Open rulers
+6. PerfectPixel
+7. Page Ruler
+8. Measure Dimensions
+9. Ghostery
+10. DarkReader
